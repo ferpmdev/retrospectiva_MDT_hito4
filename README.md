@@ -2,7 +2,7 @@
 
 ---
 ## expectativa
-Nunca prejuzgué al grupo antes de empezar a trabajar, pero, por experiencias anteriores en cursos anteriores (React en la UTN) sabía que podía pasar lo peor, es decir, una actitud pasiva y gran irresponsabilidad de la mayoría, mucha gente que paga una cuota para pensar que esta aprendiendo, pero no hace nada mas.
+Nunca prejuzgué al grupo antes de empezar a trabajar, pero, por experiencias anteriores (React en la UTN) sabía que podía pasar lo peor, es decir, una actitud pasiva y gran irresponsabilidad de la mayoría, mucha gente que paga una cuota para pensar que esta aprendiendo, pero no hace nada mas.
 
 ---
 ## lo que pasó
